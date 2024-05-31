@@ -480,15 +480,15 @@ int main(){
 }
 
 void printMainMenu(){
-    printf("\t\t**************Welcome to ATM Service**************\n");
+	printf("\t\t**************Welcome to ATM Service**************\n");
 	printf("\t\t1. Check Balance\n");
 	printf("\t\t2. Withdraw Cash\n");
 	printf("\t\t3. Deposit Cash\n");
-    printf("\t\t4. Fund Tranfer\n");
-    printf("\t\t5. Mini Statement\n");
-    printf("\t\t6. Quick Withdrawl\n");
-    printf("\t\t7. Pin Change\n");
+    	printf("\t\t4. Fund Tranfer\n");
+    	printf("\t\t5. Mini Statement\n");
+    	printf("\t\t6. Quick Withdrawl\n");
+    	printf("\t\t7. Pin Change\n");
 	printf("\t\t8. Change Account Type\n");
-    printf("\t\t9. Exit\n");
+    	printf("\t\t9. Exit\n");
 	printf("\t\t**************************************************\n\n");
 }
